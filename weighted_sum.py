@@ -70,7 +70,7 @@ def weighted_sum_method(input_params):
           ('E','1'): p_E1,
           ('E','2'): p_E2,
           ('S','1'): p_S1,
-          ('S','2'): p_S2,
+          ('S','2'): p_S1,
           ('B','1'): p_B1
       }
 
